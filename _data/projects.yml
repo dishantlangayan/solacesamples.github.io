@@ -5,12 +5,15 @@
 - title: Solace JMS API
   image: jms-logo.png
   url: https://solacesamples.github.io/solace-samples-jms/
-- title: Solace Messaging for Pivotal Cloud Foundry
-  image: cloud-foundry-logo-tall.png
-  url: https://solacesamples.github.io/solace-samples-cloudfoundry-java/
-- title: Solace Transport for OpenMAMA
-  image: OpenMAMA-logo.png
-  url: https://solacesamples.github.io/solace-samples-openmama/
+- title: Solace C API
+  image: c-api.svg
+  url: https://solacesamples.github.io/solace-samples-c/
 - title: Solace REST Messaging
   image: rest-api.png
   url: https://solacesamples.github.io/solace-samples-rest-messaging/
+- title: Solace Transport for OpenMAMA
+  image: OpenMAMA-logo.png
+  url: https://solacesamples.github.io/solace-samples-openmama/
+- title: Solace Messaging for Pivotal Cloud Foundry
+  image: cloud-foundry-logo-tall.png
+  url: https://solacesamples.github.io/solace-samples-cloudfoundry-java/
