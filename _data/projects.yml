@@ -3,14 +3,17 @@
   - title: Solace Java API
     image: java-logo.jpg
     url: https://solacesamples.github.io/solace-samples-java/
-  - title: Solace JMS API
-    image: jms-logo.png
-    url: https://solacesamples.github.io/solace-samples-jms/
   - title: Solace C API
     image: c-api.svg
     url: https://solacesamples.github.io/solace-samples-c/
+  - title: Solace JavaScript API
+    image: javascript-logo.png
+    url: https://solacesamples.github.io/solace-samples-javascript/
 - title: Open APIs and Protocols
   projects:
+  - title: Solace JMS API
+    image: jms-logo.png
+    url: https://solacesamples.github.io/solace-samples-jms/
   - title: Solace REST Messaging
     image: rest-api.png
     url: https://solacesamples.github.io/solace-samples-rest-messaging/
