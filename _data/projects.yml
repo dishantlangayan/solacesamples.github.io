@@ -12,6 +12,9 @@
   - title: Solace JavaScript API
     image: javascript-logo.png
     url: https://solacesamples.github.io/solace-samples-javascript/
+  - title: Solace NodeJS API
+    image: nodejs-logo.png
+    url: https://solacesamples.github.io/solace-samples-nodejs/
 - title: Open APIs and Protocols
   projects:
   - title: Solace JMS API
